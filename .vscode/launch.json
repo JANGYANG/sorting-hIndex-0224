@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "sorting.hIndex.App",
+            "projectName": "sorting-hIndex-0224"
+        }
+    ]
+}
